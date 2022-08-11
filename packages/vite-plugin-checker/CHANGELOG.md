@@ -1,3 +1,13 @@
+## <small>0.4.10 (2022-08-11)</small>
+
+* Skip running ESLint on ignored files ([79f1090](https://github.com/kylewlacy/vite-plugin-checker/commit/79f1090))
+* Update forked package metadata ([1707a6a](https://github.com/kylewlacy/vite-plugin-checker/commit/1707a6a))
+* build: add peerDependenciesMeta ([24d22b7](https://github.com/kylewlacy/vite-plugin-checker/commit/24d22b7))
+* build: make test pass ([3e6fa02](https://github.com/kylewlacy/vite-plugin-checker/commit/3e6fa02))
+* fix: add named export to improve `"module": "nodenext"` compatibility (#140) ([dca4157](https://github.com/kylewlacy/vite-plugin-checker/commit/dca4157)), closes [#140](https://github.com/kylewlacy/vite-plugin-checker/issues/140)
+
+
+
 ## <small>0.4.9 (2022-07-13)</small>
 
 * Allow Vite 3 beta as peer dependency ([cd1f06f](https://github.com/fi3ework/vite-plugin-checker/commit/cd1f06f))
