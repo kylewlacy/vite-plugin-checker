@@ -1,7 +1,7 @@
 {
-  "name": "vite-plugin-checker",
+  "name": "@kylewlacy/vite-plugin-checker",
   "version": "0.4.9",
-  "description": "Vite plugin that runs TypeScript type checker on a separate process.",
+  "description": "[Fork] Vite plugin that runs TypeScript type checker on a separate process.",
   "main": "lib/main.js",
   "bin": {
     "vite-plugin-checker-vls": "./bin/vls"
@@ -21,17 +21,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fi3ework/vite-plugin-checker.git"
+    "url": "git+https://github.com/kylewlacy/vite-plugin-checker.git"
   },
   "keywords": [
     "vite",
     "vite-plugin",
     "typescript"
   ],
-  "author": "fi3ework <fi3ework@gmail.com>",
+  "author": "Kyle Lacy <nodejs@kyle.space>",
   "license": "MIT",
-  "bugs": "https://github.com/fi3ework/vite-plugin-checker/issues",
-  "homepage": "https://github.com/fi3ework/vite-plugin-checker",
+  "bugs": "https://github.com/kylewlacy/vite-plugin-checker/issues",
+  "homepage": "https://github.com/kylewlacy/vite-plugin-checker",
   "dependencies": {
     "@babel/code-frame": "^7.12.13",
     "ansi-escapes": "^4.3.0",
